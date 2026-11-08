@@ -414,7 +414,6 @@ $buku = $db->getALL($sql);
                         </li>
 
                     <?php endif; ?>
-
                 </ul>
             </div>
         </div>
@@ -568,7 +567,7 @@ $buku = $db->getALL($sql);
     <footer>
         <p class="mb-1">
             <i class="bi bi-book-half me-2"></i>
-            PERPUSNAS <span>By Lazuardi</span>
+            PERPUSNAS <span>By Ozzora</span>
         </p>
         <p class="mt-2 mb-0">
             &copy; 2026
